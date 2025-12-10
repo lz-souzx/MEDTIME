@@ -19,6 +19,4 @@ Como executar:
 - Abra no Android Studio;
 - Execute em um dispositivo ou emulador Android.
 
-Status: Em desenvolvimento.
-
 Autora: Luiza
